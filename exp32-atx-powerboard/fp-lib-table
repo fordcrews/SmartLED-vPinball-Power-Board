@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "esp32")(type "KiCad")(uri "C:/Users/fcrews/Downloads/ESP32_DevKitC_Footprint_Lib/ESP32.pretty")(options "")(descr ""))
+  (lib (name "MOSFET")(type "KiCad")(uri "${KIPRJMOD}/footprints/MOSFET.pretty")(options "")(descr ""))
+)
